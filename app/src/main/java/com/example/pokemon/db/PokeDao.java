@@ -15,7 +15,7 @@ import retrofit2.http.QueryMap;
 /**
  * Created by Abhinav Singh on 17,June,2020
  */
-d
+
 @Dao
 public interface PokeDao {
 
